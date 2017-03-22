@@ -1,0 +1,6 @@
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/th/dominio/ThDominioServer.java
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/sp/dominio/SpDominioServer.java
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/sp/negocio/SpNegocioServer.java
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/discovery/DiscoveryServer.java
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/th/negocio/ThNegocioServer.java
+/Users/robertochajin/Ciberdix/cbrdx_microservices/src/main/java/com/ciberdix/microservices/services/Main.java

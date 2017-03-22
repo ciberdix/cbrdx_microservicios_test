@@ -1,0 +1,6 @@
+com/ciberdix/microservices/services/sp/dominio/SpDominioServer.class
+com/ciberdix/microservices/services/sp/negocio/SpNegocioServer.class
+com/ciberdix/microservices/services/discovery/DiscoveryServer.class
+com/ciberdix/microservices/services/th/negocio/ThNegocioServer.class
+com/ciberdix/microservices/services/Main.class
+com/ciberdix/microservices/services/th/dominio/ThDominioServer.class
